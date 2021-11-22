@@ -1,0 +1,22 @@
+﻿  01_AmbientLight.cpp
+C:\Users\CJ Larent\Desktop\Class work\GAME2012\GAME2012_W11_Lecture\OpenGLGlutGlfwShaderTemplate\Shape.h(32,23): warning C4267: 'return': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\CJ Larent\Desktop\Class work\GAME2012\GAME2012_W11_Lecture\OpenGLGlutGlfwShaderTemplate\Shape.h(93,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CJ Larent\Desktop\Class work\GAME2012\GAME2012_W11_Lecture\OpenGLGlutGlfwShaderTemplate\Shape.h(156,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\CJ Larent\Desktop\Class work\GAME2012\GAME2012_W11_Lecture\OpenGLGlutGlfwShaderTemplate\Shape.h(168,30): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+C:\Users\CJ Larent\Desktop\Class work\GAME2012\GAME2012_W11_Lecture\OpenGLGlutGlfwShaderTemplate\Shape.h(169,30): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+C:\Users\CJ Larent\Desktop\Class work\GAME2012\GAME2012_W11_Lecture\OpenGLGlutGlfwShaderTemplate\Shape.h(212,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\CJ Larent\Desktop\Class work\GAME2012\GAME2012_W11_Lecture\OpenGLGlutGlfwShaderTemplate\Shape.h(304,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\CJ Larent\Desktop\Class work\GAME2012\GAME2012_W11_Lecture\OpenGLGlutGlfwShaderTemplate\Shape.h(322,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\CJ Larent\Desktop\Class work\GAME2012\GAME2012_W11_Lecture\OpenGLGlutGlfwShaderTemplate\Shape.h(333,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\CJ Larent\Desktop\Class work\GAME2012\GAME2012_W11_Lecture\OpenGLGlutGlfwShaderTemplate\Shape.h(380,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\CJ Larent\Desktop\Class work\GAME2012\GAME2012_W11_Lecture\OpenGLGlutGlfwShaderTemplate\Shape.h(398,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\CJ Larent\Desktop\Class work\GAME2012\GAME2012_W11_Lecture\OpenGLGlutGlfwShaderTemplate\Shape.h(429,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  OpenGLGlutGlfwShaderTemplate.vcxproj -> C:\Users\CJ Larent\Desktop\Class work\GAME2012\GAME2012_W11_Lecture\x64\Debug\OpenGLGlutGlfwShaderTemplate.exe
