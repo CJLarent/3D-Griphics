@@ -1,0 +1,23 @@
+﻿  GAME2012_FinalProject_MiguelPenalver_ChristopherLarent_Carlson.cpp
+C:\Users\migue\Desktop\GAME2012_FinalProject_MiguelPenalver_ChristopherLarent_Carlson\OpenGLGlutGlfwShaderTemplate\Shape.h(36,23): warning C4267: 'return': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\migue\Desktop\GAME2012_FinalProject_MiguelPenalver_ChristopherLarent_Carlson\OpenGLGlutGlfwShaderTemplate\Shape.h(98,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\migue\Desktop\GAME2012_FinalProject_MiguelPenalver_ChristopherLarent_Carlson\OpenGLGlutGlfwShaderTemplate\Shape.h(162,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\migue\Desktop\GAME2012_FinalProject_MiguelPenalver_ChristopherLarent_Carlson\OpenGLGlutGlfwShaderTemplate\Shape.h(174,30): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+C:\Users\migue\Desktop\GAME2012_FinalProject_MiguelPenalver_ChristopherLarent_Carlson\OpenGLGlutGlfwShaderTemplate\Shape.h(175,30): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+C:\Users\migue\Desktop\GAME2012_FinalProject_MiguelPenalver_ChristopherLarent_Carlson\OpenGLGlutGlfwShaderTemplate\Shape.h(218,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\migue\Desktop\GAME2012_FinalProject_MiguelPenalver_ChristopherLarent_Carlson\OpenGLGlutGlfwShaderTemplate\Shape.h(310,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\migue\Desktop\GAME2012_FinalProject_MiguelPenalver_ChristopherLarent_Carlson\OpenGLGlutGlfwShaderTemplate\Shape.h(328,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\migue\Desktop\GAME2012_FinalProject_MiguelPenalver_ChristopherLarent_Carlson\OpenGLGlutGlfwShaderTemplate\Shape.h(339,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\migue\Desktop\GAME2012_FinalProject_MiguelPenalver_ChristopherLarent_Carlson\OpenGLGlutGlfwShaderTemplate\Shape.h(386,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\migue\Desktop\GAME2012_FinalProject_MiguelPenalver_ChristopherLarent_Carlson\OpenGLGlutGlfwShaderTemplate\Shape.h(404,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\migue\Desktop\GAME2012_FinalProject_MiguelPenalver_ChristopherLarent_Carlson\OpenGLGlutGlfwShaderTemplate\Shape.h(435,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\migue\Desktop\GAME2012_FinalProject_MiguelPenalver_ChristopherLarent_Carlson\OpenGLGlutGlfwShaderTemplate\GAME2012_FinalProject_MiguelPenalver_ChristopherLarent_Carlson.cpp(301,34): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  OpenGLGlutGlfwShaderTemplate.vcxproj -> C:\Users\migue\Desktop\GAME2012_FinalProject_MiguelPenalver_ChristopherLarent_Carlson\x64\Debug\OpenGLGlutGlfwShaderTemplate.exe

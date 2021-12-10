@@ -1,0 +1,21 @@
+﻿  01_Blending.cpp
+D:\_\__OpenGL Projects\GAME2012_W13_Blending\OpenGLGlutGlfwShaderTemplate\Shape.h(98,21): warning C4018: '<': signed/unsigned mismatch
+D:\_\__OpenGL Projects\GAME2012_W13_Blending\OpenGLGlutGlfwShaderTemplate\Shape.h(131,21): warning C4018: '<': signed/unsigned mismatch
+D:\_\__OpenGL Projects\GAME2012_W13_Blending\OpenGLGlutGlfwShaderTemplate\Shape.h(156,21): warning C4018: '<': signed/unsigned mismatch
+D:\_\__OpenGL Projects\GAME2012_W13_Blending\OpenGLGlutGlfwShaderTemplate\Shape.h(174,30): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+D:\_\__OpenGL Projects\GAME2012_W13_Blending\OpenGLGlutGlfwShaderTemplate\Shape.h(175,30): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+D:\_\__OpenGL Projects\GAME2012_W13_Blending\OpenGLGlutGlfwShaderTemplate\Shape.h(212,21): warning C4018: '<': signed/unsigned mismatch
+D:\_\__OpenGL Projects\GAME2012_W13_Blending\OpenGLGlutGlfwShaderTemplate\Shape.h(328,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\_\__OpenGL Projects\GAME2012_W13_Blending\OpenGLGlutGlfwShaderTemplate\Shape.h(339,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\_\__OpenGL Projects\GAME2012_W13_Blending\OpenGLGlutGlfwShaderTemplate\Shape.h(380,21): warning C4018: '<': signed/unsigned mismatch
+D:\_\__OpenGL Projects\GAME2012_W13_Blending\OpenGLGlutGlfwShaderTemplate\Shape.h(404,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\_\__OpenGL Projects\GAME2012_W13_Blending\OpenGLGlutGlfwShaderTemplate\Shape.h(429,21): warning C4018: '<': signed/unsigned mismatch
+  OpenGLGlutGlfwShaderTemplate.vcxproj -> D:\_\__OpenGL Projects\GAME2012_W13_Blending\Debug\OpenGLGlutGlfwShaderTemplate.exe
